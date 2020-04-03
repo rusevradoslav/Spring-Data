@@ -1,0 +1,383 @@
+[
+  {
+    "id": 29,
+    "name": "Louann Holzworth",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.3
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Donnetta Soliz",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.2
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Rema Revelle",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.05
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Carri Knapik",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.1
+      },
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.55
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Garret Capron",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 8,
+    "name": "Teddy Hobby",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 10,
+    "name": "Audrea Cardinal",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.4
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Francis Mckim",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Brett Brickley",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.45
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kristian Engberg",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 26,
+    "name": "Hipolito Lamoreaux",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 4,
+    "name": "Zada Attwood",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.45
+      },
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.35
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Sylvie Mcelravy",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.3
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rico Peer",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.05
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hai Everton",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.45
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lino Subia",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 24,
+    "name": "Jimmy Grossi",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.15
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Carole Witman",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.15
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Oren Perlman",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.05
+      },
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.2
+      },
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.45
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Natalie Poli",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 3,
+    "name": "Marcelle Griego",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 19,
+    "name": "Yvonne Mccalla",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 30,
+    "name": "Ann Mcenaney",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.35
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Cinthia Lasala",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.05
+      },
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.35
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Emmitt Benally",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.45
+      },
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.45
+      },
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.2
+      },
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.15
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Nisha Markwell",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.4
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Faustina Burgher",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.3
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Taina Achenbach",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.1
+      },
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.05
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Johnette Derryberry",
+    "birthDate": {},
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 22,
+    "name": "Daniele Zarate",
+    "birthDate": {},
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {},
+        "customer": {},
+        "discount": 0.05
+      }
+    ]
+  }
+]

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b87dee8-36f8-4355-80ce-e7be101cce53" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="most_wanted_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZvzJ8V4FU5lJV8cpGreLLpjQH4" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Todor Filev/SoftUni-master/Hibernate And Spring Data/Exams/22nd April 2018/MostWanted" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rado\Desktop\Spring DB Projects\EXAM PREPARATION\Most Wanted - exam\E04Most_Wanted_TODO\src\main\java\mostwanted" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MostwantedApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mostwanted" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mostwanted.MostwantedApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@2984ed9" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@2fd509c4" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@3728f5cb" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b87dee8-36f8-4355-80ce-e7be101cce53" name="Default Changelist" comment="" />
+      <created>1585734280212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585734280212</updated>
+      <workItem from="1585734283933" duration="26102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585745744893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585745744893" />
+    <state x="765" y="195" key="#com.intellij.ide.util.MemberChooser" timestamp="1585759395522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="195" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585759395522" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585753376913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585753376913" />
+    <state width="1877" height="524" key="GridCell.Tab.0.bottom" timestamp="1585815942560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942560" />
+    <state width="1877" height="524" key="GridCell.Tab.0.center" timestamp="1585815942560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942560" />
+    <state width="1877" height="524" key="GridCell.Tab.0.left" timestamp="1585815942560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942560" />
+    <state width="1877" height="524" key="GridCell.Tab.0.right" timestamp="1585815942560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942560" />
+    <state width="1877" height="524" key="GridCell.Tab.1.bottom" timestamp="1585815942560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942560" />
+    <state width="1877" height="524" key="GridCell.Tab.1.center" timestamp="1585815942560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942560" />
+    <state width="1877" height="524" key="GridCell.Tab.1.left" timestamp="1585815942560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942560" />
+    <state width="1877" height="524" key="GridCell.Tab.1.right" timestamp="1585815942560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942560" />
+    <state width="1877" height="524" key="GridCell.Tab.2.bottom" timestamp="1585815942561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942561" />
+    <state width="1877" height="524" key="GridCell.Tab.2.center" timestamp="1585815942561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942561" />
+    <state width="1877" height="524" key="GridCell.Tab.2.left" timestamp="1585815942560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942560" />
+    <state width="1877" height="524" key="GridCell.Tab.2.right" timestamp="1585815942561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="524" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585815942561" />
+    <state width="262" height="539" key="HiddenNamespacesPopup" timestamp="1585762919229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="262" height="539" key="HiddenNamespacesPopup/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585762919229" />
+    <state x="828" y="407" width="324" height="262" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1585762028967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="407" width="324" height="262" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585762028967" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mostwanted/service/impl/RacerServiceImpl.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mostwanted/service/impl/RacerServiceImpl.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
